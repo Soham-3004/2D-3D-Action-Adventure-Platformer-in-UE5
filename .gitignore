@@ -1,0 +1,58 @@
+# Unreal Engine folders to ignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore cooked content
+*.ucas
+*.utoc
+*.pak
+
+# Ignore executables and debug symbols
+*.exe
+*.dll
+*.pdb
+
+# Ignore Visual Studio/JetBrains/IDE stuff
+.vs/
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.sdf
+*.suo
+*.user
+*.opensdf
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore crash logs and autosaves
+*.dmp
+*.tmp
+Autosaves/
+Backup/
+
+# Ignore build artifacts (optional but safe)
+*.obj
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.idb
+
+# Ignore Rider IDE files (if applicable)
+.idea/
+*.sln.iml
+
+# Ignore UnrealEngine source folders if added
+Engine/Source/
+
+# Ignore large binary data (optional)
+*.app
+*.iso
+*.bin
+*.apk
+*.obb

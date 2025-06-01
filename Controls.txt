@@ -1,0 +1,8 @@
+WASD for movement 
+up arrow key to jump 
+up arrow key press twice to double jump (after accquring red orb this ability is unlocked)
+down arrow key to change camera angle
+right arrow key to throw sword (after accquring blue orb this ability is unlocked)
+left arrow key to attack using sword
+
+The game ends either when you die or find the floating treassure object on the map 
