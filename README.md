@@ -2,6 +2,15 @@
 
 A 3D action platformer built in **Unreal Engine 5.4**, using 2D sprites in a stylized pirate world. You play as a fearless pig pirate battling through hordes of shark pirates.
 
+Looking back at this project through the lens of a Full-Stack AI Engineer, the 'Pig Pirate' was a foundational exercise in Multi-Agent Orchestration. Beyond the mechanics, I utilized Behavior Trees and Blackboards to architect autonomous enemy AI, establishing a rigorous understanding of state-driven decision-making that I now apply to Agentic AI workflows. By leveraging Class Inheritance for power-up modules and optimizing the Paper2D plugin for hybrid rendering performance, I focused on building a scalable system where logic and visual performance are tightly coupled—a core principle I carry into my current work with CUDA optimization and decentralized AI frameworks.
+
+Engine & Features
+Built with Unreal Engine 5.4
+Hybrid 3D world using 2D flipbook sprites
+Custom character controller with platforming mechanics
+Power-ups
+
+Check out gameplay video:https://lnkd.in/gPUTT74E
 ---
 
 ## 🎮 Gameplay
