@@ -10,7 +10,7 @@ Hybrid 3D world using 2D flipbook sprites
 Custom character controller with platforming mechanics
 Power-ups
 
-Check out gameplay video:https://lnkd.in/gPUTT74E
+Check out gameplay video: https://youtu.be/tlW8O2pzzus?si=n4ENw3DR7b2-4y8T
 ---
 
 ## 🎮 Gameplay
